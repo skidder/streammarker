@@ -1,6 +1,6 @@
 # StreamMarker
 
-[StreamMarker](https://www.streammarker.com/) is a complete system for measuring, recording, and view environment readings. These currently consist of:
+[StreamMarker](https://www.streammarker.com/) is a complete system for measuring, recording, and viewing environment readings. These currently consist of:
  * Soil Temperature
  * Soil Moisture
  * Atmospheric Temperature
