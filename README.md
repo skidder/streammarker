@@ -8,6 +8,7 @@
  * Sensor Enclosure Temperature
 
 The following components have been published as Open-Source:
+ * [streammarker-web](https://github.com/urlgrey/streammarker-web) - Web Dashboard for viewing measurements and managing sensors & relays
  * [streammarker-data-access](https://github.com/urlgrey/streammarker-data-access) - REST endpoint to query for sensor readings and manage sensors & relays
  * [streammarker-collector](https://github.com/urlgrey/streammarker-collector) - REST endpoint to receive sensor readings sent by relay devices and enqueue messages on SQS for asynchronous processing
  * [streammarker-writer](https://github.com/urlgrey/streammarker-writer) - SQS consumer that records sensor readings to DynamoDB
